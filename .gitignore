@@ -1,1 +1,7 @@
+*
+!*/
+!*.*
 Rust/target/*
+*.json
+Cpp/*/Contents/*
+*.dSYM
